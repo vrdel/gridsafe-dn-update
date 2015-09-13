@@ -1,0 +1,5 @@
+include setup.py
+include README.md
+include gridsafe-dn-update.spec
+include cronjobs/*
+include bin/*

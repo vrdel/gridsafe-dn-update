@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<tomcat-users>
+ <role rolename="gridsafe"/>
+ <role rolename="user"/>
+ <role rolename="upload"/>
+ <user password="gridsafe" roles="upload,user,gridsafe" username="gridsafe"/>
+ <user password="null" roles="user" username="CN=Daniel Vrcic, OU=srce, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Emir Imamagic, OU=srce, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Hrvoje Sute, OU=srce, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Iva Snidaric, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Davor Davidovic, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Radomir Stevanovic, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Marija Maksimovic, OU=uniri, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Dobrisa Dobrenic, OU=srce, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Tino Medvidovic, OU=gradri, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Antonija Tomic, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Gordan Janes, OU=gradri, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Domagoj Severdija, OU=unios, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Hrvoje Brkic, OU=mefos, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Sasa Rosic, OU=uniri, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Tamara Niksic, OU=phy, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Darko Zaric, OU=pmfst, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Iva Kavcic, OU=geolpmf, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Leandra Vranjes Markic, OU=pmfst, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Anamarija Perusic, OU=gradri, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Trpimir Ivsic, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Vedran Lucic, OU=biolpmf, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Karmen Condic-Jurkic, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Gordan Horvat, OU=pmf, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Marina Grabar Branilovic, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Dejan Agic, OU=pfos, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Ines Despotovic, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Miran Pobar, OU=uniri, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Sinisa Segvic, OU=fer, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Ivan Kodrin, OU=pmf, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Davor Palle, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Tadija Kekic, OU=pmf, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Tatjana Susa, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Zoran Milicevic, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Zeljka Tutek, OU=geof, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Ivan Vidovic, OU=etfos, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Goran Mausa, OU=riteh, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Danijel Radosevic, OU=foi, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Vjeran Gomzi, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Petar Stipanovic, OU=pmfst, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Hrvoje Vrcan, OU=pmfst, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Luko Gjenero, OU=srce, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Tatjana Pecak, OU=gradri, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Amela Jericevic, OU=dhz, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Dominik Sisejkovic, OU=fer, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Domagoj Margan, OU=uniri, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Aleksandra Marsavelski, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Marija Miloloza Pandur, OU=unios, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Vedran Miletic, OU=uniri, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Slobodan Jelic, OU=unios, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Lidija Srnec, OU=dhz, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Igor Roncevic, OU=pmf, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Mijo Simunovic, OU=chempmf, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Ivana Stiperski, OU=dhz, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Viktor Bojovic, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Irena Galic, OU=etfos, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Robert Bakaric, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Igor Roncevic, OU=chempmf, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Tomislav Galba, OU=etfos, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Marko-Tomislav Cvitas, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Mario Vazdar, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Marin Bugaric, OU=fesb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Andreja Radovic, OU=biolpmf, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Nikola Garafolic, OU=srce, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Jelena Cubric, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Igor Grbesa, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Nermin Bacinovic, OU=uniri, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Tomislav Marketin, OU=phy, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Natalia Mrnjavac, OU=pmf, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Jasmina Sabolovic, OU=imi, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Zorislav Sojat, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Igor Lukacevic, OU=unios, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Dino Mileta, OU=eihp, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Robert Vianello, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Branimir Bertosa, OU=chempmf, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Senka Drobac, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Marko Hanzevacki, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Goran Kovacevic, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Doris Dumicic, OU=uniri, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Nada Doslic, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Nils Paar, OU=pmf, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Tomislav Lipic, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Vanja Travas, OU=gradri, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Tomislav Terzic, OU=uniri, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Berislav Peric, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Drazen Bajer, OU=etfos, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Tonimir Kisasondi, OU=foi, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Domagoj Fijan, OU=pmf, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Stjepan Ivatek-Sahdan, OU=dhz, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Antonio Prlj, OU=chempmf, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Jurica Novak, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Mirta Patarcic, OU=dhz, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Karolj Skala, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Tomislav Jurkic, OU=uniri, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Ivan Sovic, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Nikola Basaric, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Domagoj Jakobovic, OU=fer, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Mirko Cobovic, OU=vusb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Darko Babic, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Martin Sebastijan Sestak, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Davor Sakic, OU=pharma, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Ana Babic, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Dragan Janjusevic, OU=srce, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Sanja Tomic, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Zdravko Krpic, OU=etfos, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Janko Diminic, OU=pbf, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Marin Sapunar, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Dalibor Merunka, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Mario Gotovac, OU=ie-zagreb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Ivana Beslic, OU=pmfst, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Danijela Baric, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Petra Durovic, OU=etfos, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Ivan Grubisic, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Zvonko Glumac, OU=unios, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Hrvoje Tutman, OU=phy, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Marijana Markovic, OU=imi, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Ivana Susanj, OU=uniri, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Marina Juribasic, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Domagoj Fijan, OU=chempmf, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Masa Roller Milosevic, OU=biolpmf, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Sermsiri Chaiwongwattana, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Marina Ivasic, OU=uniri, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Josip Mance, OU=etfos, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Visnja Stepanic, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Ana Ivkovic, OU=mefos, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Daniel Meljanac, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Nikola Ivkovic, OU=foi, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Ivan Kodrin, OU=chempmf, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Momir Malis, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Dubravko Matijasevic, OU=fsb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Jakov Sosic, OU=srce, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Luksa Kraljevic, OU=dhz, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Goranka Bilalbegovic, OU=pmf, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Zeljko Smaguc, OU=foi, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Ivica Kozar, OU=gradri, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Bruno Zoric, OU=etfos, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Gordana Beg Paklar, OU=izor, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Kristian Horvath, OU=dhz, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Nena Radic, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Marko Tomin, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Robert Stepic, OU=chempmf, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Ivo Batistic, OU=phy, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Dubravko Balic, OU=fesb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Mladen Pavicic, OU=grad, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Goran Topic, OU=irb, O=edu, C=HR"/>
+ <user password="null" roles="user" username="CN=Pau Marc Munoz Torres, OU=irb, O=edu, C=HR"/>
+</tomcat-users>

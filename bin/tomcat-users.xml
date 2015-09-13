@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tomcat-users>
+  <role rolename="gridsafe"/>
+  <role rolename="user"/>
+  <role rolename="upload"/>
+  <user username="gridsafe" password="gridsafe" roles="upload,user,gridsafe"/>
+  <user username="CN=Daniel Vrcic, OU=srce, O=edu, C=HR" password="null" roles="user"/>
+  <user username="CN=Emir Imamagic, OU=srce, O=edu, C=HR" password="null" roles="user"/>
+  <user username="CN=Hrvoje Sute, OU=srce, O=edu, C=HR" password="null" roles="user"/>
+</tomcat-users>
